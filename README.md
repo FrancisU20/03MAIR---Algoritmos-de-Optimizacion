@@ -1,2 +1,2 @@
-#Deber Algoritmos de Optimización 
+# Deber Algoritmos de Optimización 
 ## Autor: Francisco Ulloa
